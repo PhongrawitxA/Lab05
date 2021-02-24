@@ -1,0 +1,36 @@
+.background{
+    background-image: linear-gradient(to right, pink , white);
+}
+.addbox{
+    background-image: linear-gradient(to right, deepskyblue , white);
+    padding-top: 0px;
+    padding-bottom: 7px;
+    margin-top: 1px;
+    margin-bottom:1px;
+    background-color: white;
+}
+.todo{
+    text-align: center;
+    background-image: linear-gradient(to right, purple , white);
+    margin-bottom:5px
+}
+.size{
+    height: 15px;
+    width: 15px;
+    margin-left: 5px;
+    margin-right: 20px;
+    margin-top: 5px;
+    margin-bottom: 0px;
+}
+.text{
+    margin: 0%;
+}
+#box{
+    margin: auto;
+    height: 200px;
+    width: 200px;
+}
+.button{
+    margin-left: 4px;
+    margin-right: 0px;
+}
